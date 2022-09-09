@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.ebanking.testdat&apos; to &apos;com.ebanking.testdata&apos;&#x0D;&#x0A;- Original project: &apos;Ebanking&apos;&#x0D;&#x0A;- Original element: &apos;Ebanking/src/com.ebanking.testdat&apos;&#x0D;&#x0A;- Renamed element: &apos;Ebanking/src/com.ebanking.testdata&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.ebanking.testdat&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.ebanking.testdat" name="com.ebanking.testdata" qualified="false" references="true" stamp="1660054750571" textual="false" version="1.0"/>
+</session>

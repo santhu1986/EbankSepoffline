@@ -1,0 +1,4 @@
+RoleName###RoleType###Results
+TellerYesBnk###E
+CashierYesBnk###E
+managerYesBnk###E

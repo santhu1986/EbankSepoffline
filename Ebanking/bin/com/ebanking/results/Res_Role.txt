@@ -1,0 +1,4 @@
+RoleName###RoleType###Results
+TellerYesBnk###E^*^&^New Role with id 2367 Created Sucessfully
+CashierYesBnk###E^*^&^New Role with id 2368 Created Sucessfully
+managerYesBnk###E^*^&^New Role with id 2369 Created Sucessfully
